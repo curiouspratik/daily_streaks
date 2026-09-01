@@ -6,3 +6,5 @@ Today I learned
 
 > The Idea i want to create with this repo is that I want to make a on the go revision setup for me
 
+4. I also want to try to build and run development of any old legacy application 
+using docker and docker compose. --- that's the way to go.
