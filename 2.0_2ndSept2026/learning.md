@@ -10,3 +10,6 @@ becomes difficult if I don't have it by heart.
 I also learned that all the methods in C# are in titlecase style way...( look into this )
 so it's not 
 Array.sort() but rather s is capital === Array.Sort() == this is the way.
+
+
+Range compare - then sorted set -- I had no clue 
